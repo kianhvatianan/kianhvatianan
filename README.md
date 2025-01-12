@@ -7,4 +7,4 @@ If this work inspires you or feels helpful, consider supporting through donation
 
 #### Saweria
 https://saweria.co/khtiann
-https://saweria.co/widgets/qr?streamKey=d4ab07be43403c5542c8ecc5897ce891
+![SaweriaQR](./saweriaqr.png)
