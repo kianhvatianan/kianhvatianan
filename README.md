@@ -1,6 +1,5 @@
-# Kiannara Hva Tiannan 👑
+### Kiannara Hva Tiannan 👑
 
-**An artist who fell in the beauty of code.**  
 Currently focusing on open-source Laravel projects while continuously growing in the open-source space. Clean, efficient, and maintainable code matters for long-term development.  
 
 Open to collaboration! If you have ideas or want to help improve existing projects, feel free to fork and submit a pull request.  
