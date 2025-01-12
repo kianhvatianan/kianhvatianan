@@ -6,6 +6,4 @@ Open to collaboration! If you have ideas or want to help improve existing projec
 If this work inspires you or feels helpful, consider supporting through donations. Every bit of support helps continue developing open-source projects and building tools that benefit the community.  
 
 #### Saweria
-
-![Support](https://your-qrcode-image-url-here)  
-
+https://saweria.co/khtiann
